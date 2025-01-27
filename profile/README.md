@@ -4,7 +4,7 @@
 [Efficience IT](https://www.itefficience.com) est une entreprise, avec une expertise Symfony, spécialisée dans la transformation numérique et les solutions informatiques sur mesure.  
 
 ## Contribuer
-Nous accueillons avec enthousiasme les contributions de la communauté. Que vous soyez un développeur expérimenté ou un débutant, vous pouvez :
+Nous accueillons avec enthousiasme les contributions de la communauté. Que vous soyez un développeur expériment é ou un débutant, vous pouvez :
 - Signaler un problème (Issue)
 - Soumettre une pull request (PR)
 - Proposer une amélioration
