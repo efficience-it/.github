@@ -17,3 +17,7 @@ Vous allez récupérer vos accès à vos différents comptes :
 Si vous avez la moindre question (technique ou organisationnelle), n’hésitez surtout pas, nous sommes là pour vous aider.
 
 Bienvenue parmi nous !
+
+## Formation
+
+- Efficience IT met un accent particulier sur la sécurité et invite chaque nouveau collaborateur à passer le Mooc de l'ANSSI https://secnumacademie.gouv.fr/
