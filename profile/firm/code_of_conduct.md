@@ -1,0 +1,3 @@
+# Code de conduite
+
+Si la liberté de ton est importante chez Efficience IT, tout propos ou acte sexiste, raciste, homophobe, visant à humilier ou harceler un collaborateur, un client ou une personne externe ne sera pas toléré et pourra faire l’objet de sanctions lourdes. Si vous êtes vous-même victime de tels actes et parce qu’il n’est pas toujours facile d’en parler, vous pouvez contacter votre délégué du personnel, ou le dirigeants qui ont été formés à traiter ce genre de cas.
