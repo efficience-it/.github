@@ -1,34 +1,57 @@
-# Bienvenue sur le GitHub de Efficience IT!👋️
+# 👋 Bienvenue sur le GitHub de Efficience IT
 
-## À propos de nous
-[Efficience IT](https://www.itefficience.com) est une agence basée à Lille, experte en développement avec Symfony. Faites-nous confiance pour concevoir des outils digitaux performants et sur mesure. Donnez vie à vos idées avec des solutions fiables, sécurisées et pensées pour le long terme.   
+## 🔹 Qui sommes-nous ?
+[Efficience IT](https://www.itefficience.com), c’est une agence web basée à Lille, experte Symfony, et profondément ancrée dans la communauté PHP.  
+On conçoit des applications robustes, bien structurées et durables — pour les PME ambitieuses, les startups techniques, et les grands comptes exigeants.  
+Notre mantra : **pas de bullshit, juste du code propre, testé et maintenable.**
 
-## Ce que nous faisons 💡
-- Développement Web Sur-Mesure
-- Maintenance et Optimisation
-- Accompagnement et Conseil 
+---
 
-## On vous aide à vous former ! 🎓
-Avec nos dépôts GitHub, Efficience IT vous offre les outils nécessaires pour accélérer votre apprentissage et développer vos compétences. 
-- [Certification Twig](https://github.com/efficience-it/certification-twig) : Ressources et exercices pour vous préparer à la certification Twig.
-- [Certification Symfony](https://github.com/efficience-it/certification-symfony) : Tout ce dont vous avez besoin pour maîtriser Symfony et passer la certification.
+## 🛠️ Ce que nous faisons
+- Développement d'applications sur-mesure (Symfony, PHP, API, JS)
+- Reprise & refonte d'outils existants
+- Audit, coaching, migration, formation
+- Interventions en régie ou au forfait
 
-## Articles de blog : Gagnez du temps avec nos conseils et astuces 📢
-- [Code mort : Mission élimination !](https://www.itefficience.com/article/code-mort-mission-elimination?utm_source=github)
-- [Les contributions open source : un enjeu de taille pour les développeurs et les projets](https://www.itefficience.com/article/les-contributions-open-source-un-enjeu-de-taille-pour-les-developpeurs-et-les-projets?utm_source=github)
-- [PHPStan 2.0 : Niveau 10 et nouvelles fonctionnalités pour un code impeccable](https://www.itefficience.com/article/phpstan-2-0-niveau-10-et-nouvelles-fonctionnalites-pour-un-code-impeccable?utm_source=github)
-- [Concrètement c'est quoi FrankenPHP ?](https://www.itefficience.com/article/concretement-cest-quoi-frankenphp)
-- [Rector et ses pouvoirs : maitrisez l'évolution de votre code Symfony](https://www.itefficience.com/article/rector-et-ses-pouvoirs-maitrisez-levolution-de-votre-code-symfony?utm_source=github)
+---
 
-## Efficience IT, fier partanaire de l'AFUP Day ! 
-Envie d'approfondir vos connaissances en PHP ? Efficience IT vous donne rendez-vous à l'AFUP Day pour partager son expertise. 
+## 🚀 Pour les développeurs : montez en compétences avec nous !
+Parce que transmettre fait partie de notre ADN, on partage nos outils de montée en compétence.  
+Retrouvez ici des dépôts conçus pour vous aider à progresser, passer vos certifs et améliorer votre craft 👇
 
-## Contactez-nous ! 
-Pour toute question ou demande d'information, vous pouvez nous contacter via :
-- Email : [Contact](mailto:contact@itefficience.com)
-- Site Web : [https://www.itefficience.com](https://www.itefficience.com)
-- LinkedIn : [https//www.linkedin.com/company/efficience-it](https://www.linkedin.com/company/efficience-it)
+- [Certification Twig](https://github.com/efficience-it/certification-twig) : Exercices et rappels pour vous préparer.
+- [Certification Symfony](https://github.com/efficience-it/certification-symfony) : Maîtrisez les fondamentaux et les subtilités du framework.
+- [Une application pour vous entrainer](https://github.com/efficience-it/efficience-it.github.io) : Sous forme de formulaire, bien plus simple pour se tester.
 
-## Suivez-nous ! 
-Restez à jour avec nos dernières nouvelles et publications en nous suivant sur les réseaux sociaux : 
-- [LinkedIn](https://www.linkedin.com/company/efficience-it/) 
+---
+
+## 🧠 Articles de blog – Notre retour d’expérience en code
+Quelques contenus maison pour aller plus loin :
+
+- [🧼 Code mort : Mission élimination !](https://www.itefficience.com/article/code-mort-mission-elimination?utm_source=github)
+- [🤝 Les contributions open source : un enjeu pour tous](https://www.itefficience.com/article/les-contributions-open-source-un-enjeu-de-taille-pour-les-developpeurs-et-les-projets?utm_source=github)
+- [🔍 PHPStan 2.0 et niveau 10 : pourquoi on l’utilise en prod](https://www.itefficience.com/article/phpstan-2-0-niveau-10-et-nouvelles-fonctionnalites-pour-un-code-impeccable?utm_source=github)
+- [⚡️ Rector : maîtrisez l’évolution continue de votre code Symfony](https://www.itefficience.com/article/rector-et-ses-pouvoirs-maitrisez-levolution-de-votre-code-symfony?utm_source=github)
+- [🧬 FrankenPHP : retour d’expérience](https://www.itefficience.com/article/concretement-cest-quoi-frankenphp)
+
+---
+
+## 🫂 On fait vivre la communauté PHP
+Efficience IT est **partenaire actif de l’AFUP** et présent aux événements tech majeurs (AFUP Day, SymfonyLive…).  
+Quand on ne code pas, on forme, on partage, on échange.
+
+---
+
+## 📮 Contact
+Une question ? Une envie de collaboration ?  
+On aime parler technique, projets, code legacy et refacto caféiné.
+
+- 📧 [contact@itefficience.com](mailto:contact@itefficience.com)
+- 🌍 [itefficience.com](https://www.itefficience.com)
+- 💼 [LinkedIn](https://www.linkedin.com/company/efficience-it/)
+
+---
+
+## 🙌 Merci de votre visite !
+Si vous êtes dev, formateur, CTO, curieux ou contributeur, ce repo est pour vous.  
+**Et si vous passez par Lille, venez boire un café avec nous ☕️**
