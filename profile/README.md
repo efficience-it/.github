@@ -2,15 +2,15 @@
 
 ## 🔹 Qui sommes-nous ?
 [Efficience IT](https://www.itefficience.com), c’est une agence web basée à Lille, experte Symfony, et profondément ancrée dans la communauté PHP.  
-On conçoit des applications robustes, bien structurées et durables — pour les PME ambitieuses, les startups techniques, et les grands comptes exigeants.  
-Notre mantra : **pas de bullshit, juste du code propre, testé et maintenable.**
+L'équipe conçoit des applications et api robustes, bien structurées et durables pour tous types de projet.  
+Notre mantra : **produire efficacement un code propre, documenté.**
 
 ---
 
 ## 🛠️ Ce que nous faisons
-- Développement d'applications sur-mesure (Symfony, PHP, API, JS)
+- Développement d'applications et api sur-mesure
 - Reprise & refonte d'outils existants
-- Audit, coaching, migration, formation
+- Audit, coaching, migrations et formations
 - Interventions en régie ou au forfait
 
 ---
@@ -27,7 +27,7 @@ Quelques contenus maison pour aller plus loin :
 ---
 
 ## 🫂 On fait vivre la communauté PHP
-Efficience IT est **partenaire actif de l’AFUP** et présent aux événements tech majeurs (AFUP Day, SymfonyLive…).  
+Efficience IT est **partenaire actif de l’AFUP** et présent aux événements tech majeurs (AFUP Day, SymfonyCon, ForumPhp…).  
 Quand on ne code pas, on forme, on partage, on échange.
 
 ---

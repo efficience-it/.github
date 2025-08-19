@@ -7,8 +7,7 @@ On est ravi de t’accueillir dans l’équipe ! Voici comment va se dérouler t
 ## 💻 Ton installation
 
 - Tu récupéreras ton ordinateur portable (**Lenovo – 32Go de RAM**), prêt à configurer.
-- Un petit kit de bienvenue t’attend avec :  
-  🎁 un sweat, une thermos, une tasse à café, des stylos, et quelques goodies maison.
+- Un kit de bienvenue à l'effigie de l'entreprise
 
 ---
 
@@ -26,7 +25,7 @@ On va t’aider à activer tous tes comptes et outils de travail :
     - Ton contrat
     - Les papiers de la mutuelle
     - Notre attestation RGPD
-    - Et tu repars avec tes **premiers tickets resto** 🍽️
+    - un planning pour passer le [mooc de l'ANSSI](https://secnumacademie.gouv.fr/) (obligatoire)
 
 - **Photo d’équipe (facultatif)** : si tu es OK, on ajoute ta bouille à la [page équipe du site](https://www.itefficience.com)
 
@@ -52,7 +51,7 @@ Tu seras accompagné·e pour :
 ## 📚 Formation sécurité
 
 La sécurité est essentielle pour nous.  
-On invite chaque nouvelle recrue à suivre le **MOOC de l’ANSSI** sur les bonnes pratiques de cybersécurité :
+On demande à chaque nouvelle recrue à suivre le **MOOC de l’ANSSI** sur les bonnes pratiques de cybersécurité :
 
 👉 https://secnumacademie.gouv.fr/
 
