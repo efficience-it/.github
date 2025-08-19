@@ -15,16 +15,6 @@ Notre mantra : **pas de bullshit, juste du code propre, testé et maintenable.**
 
 ---
 
-## 🚀 Pour les développeurs : montez en compétences avec nous !
-Parce que transmettre fait partie de notre ADN, on partage nos outils de montée en compétence.  
-Retrouvez ici des dépôts conçus pour vous aider à progresser, passer vos certifs et améliorer votre craft 👇
-
-- [Certification Twig](https://github.com/efficience-it/certification-twig) : Exercices et rappels pour vous préparer.
-- [Certification Symfony](https://github.com/efficience-it/certification-symfony) : Maîtrisez les fondamentaux et les subtilités du framework.
-- [Une application pour vous entrainer](https://github.com/efficience-it/efficience-it.github.io) : Sous forme de formulaire, bien plus simple pour se tester.
-
----
-
 ## 🧠 Articles de blog – Notre retour d’expérience en code
 Quelques contenus maison pour aller plus loin :
 
