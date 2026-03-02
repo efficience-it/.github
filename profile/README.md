@@ -1,5 +1,11 @@
 # 👋 Bienvenue sur le GitHub de Efficience IT
 
+![Symfony](https://img.shields.io/badge/Symfony-Expert-black?style=for-the-badge&logo=symfony)
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![API Platform](https://img.shields.io/badge/API%20Platform-68BCB2?style=for-the-badge&logo=apiplatform&logoColor=white)
+![Partenaire AFUP](https://img.shields.io/badge/Partenaire-AFUP-3C5A99?style=for-the-badge)
+
 ## 🔹 Qui sommes-nous ?
 [Efficience IT](https://www.itefficience.com), c’est une agence web basée à Lille, experte Symfony, et profondément ancrée dans la communauté PHP.  
 L'équipe conçoit des applications et api robustes, bien structurées et durables pour tous types de projet.  
