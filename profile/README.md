@@ -11,6 +11,15 @@
 L'équipe conçoit des applications et api robustes, bien structurées et durables pour tous types de projet.  
 Notre mantra : **produire efficacement un code propre, documenté.**
 
+<table>
+  <tr>
+    <td align="center"><strong>10+</strong><br>Années d'expérience</td>
+    <td align="center"><strong>150+</strong><br>Projets livrés</td>
+    <td align="center"><strong>40+</strong><br>Clients accompagnés</td>
+    <td align="center"><strong>500+</strong><br>PR sur PHP, Symfony & son écosystème</td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ Ce que nous faisons
